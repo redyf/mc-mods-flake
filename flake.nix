@@ -68,7 +68,7 @@
                 zlib
                 jdt-language-server
                 google-java-format
-                jetbrains.idea-community
+                jetbrains.idea-community-bin
               ]
               ++ lwjglLibs;
 
